@@ -47,7 +47,9 @@
 * 상위 관광지의 경우 대부분 아이가 있는 가족 단위 관광지에 특성화 되어 있음
 * 하위 관광지의 경우 타 관광지에 비해 개인 취향을 강하게 타는 장소/컨셉을 가짐
   - 경기 지역 관광지 활성화 중점 키워드는 '가족 단위', '자연', '교육용' 테마 개발 필요
-  
+
+<br>
+
 5. 회고  
 
 <img src='https://github.com/Sanghoon-Oh-34/cs_project04/blob/master/2.%20Slides/22.jpg' width='400px' height='300px'></img>
